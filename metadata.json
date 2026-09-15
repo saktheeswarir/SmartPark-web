@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark – AI College Parking Detection System",
+  "description": "AI-powered real-time parking detection system for college campuses using YOLO computer vision to monitor slot availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
